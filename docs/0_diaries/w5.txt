@@ -1,0 +1,1 @@
+During the meeting we discussed the results from the plan deliverable. After this I showed my supervisor the functionalities of the project which are related to the server and the database. The goals until the next meeting is to implement the created functionalities to an Android client 
