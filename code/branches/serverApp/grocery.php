@@ -12,8 +12,8 @@ trigger_error(mysql_error(),E_USER_ERROR);
 mysql_select_db($database_localhost, $localhost);
 
 // create the sql statement based on the ID for the shop that the user is interested in 
-$password = $_POST['ID'];
-$SQLCommand = "SELECT * FROM grocerylist".mysql_real_escape_string($password);
+$ID = $_POST['ID'];
+$SQLCommand = "SELECT * FROM grocerylist".mysql_real_escape_string($ID);
 $result=mysql_query($SQLCommand);
 $resArray = array();
 $index = 0; 
