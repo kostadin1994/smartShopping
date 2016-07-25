@@ -1,1 +1,0 @@
-An initial prototype was created which implemented the server functionalities and display them using simple .JSP pages. During the meeting we have talked about the initial prototype and my furher ideas about the project
