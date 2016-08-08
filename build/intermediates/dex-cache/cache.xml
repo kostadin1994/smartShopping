@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_e882964853f1c9aff113fee5c5e601a5ae893038.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_740fa738dd673349fb9f2d422989d3e7712e478c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_1befee97d5afaf41b10902c9ba21c7483fe78e0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_d164d21bff32e4acb7f704e43a90cea389ecfd8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_bef6a20cf7cae1adf299815e50cd620abbdb6958.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\json-simple.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03739029dad351f8b8e4a885cecb6fc67a7e4329">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\json-simple_513e04092c9fce4c99246556f735f0a15a24e4e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_b8490dec1e49645e2245dd74352301f14f16b382.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_f6533e2233f2d3faef5a28d1e6dece8b2da2bb73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_936ee9ea60d63db3248d847d1968e35c8e60bc4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpclient_c20f3f3bb1b5548005c7ef42109ee25d766101c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\commons-logging-1.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b2888239ebec822dff8ed7ebf96293302e4b23b">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.2_520f0fd0618e492e489a5c6ea5fcfc4b6a0aae13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_8539eb0980ac68347f582e6910791c57acf6f38d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_fde5bd181bc95c5f1cd12d2ce14e5da6cc3ce524.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\org.json-20120521.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\org.json-20120521_4295e3d104d4120a6bac41766129b4f8d1b51fd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_390fceab972e21463c6c8fd2417024729f0b32ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_3ef751e2a7110be31a8e74761f2c684fcb8216ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\libs\volley.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\volley_cbdec3a36d1a7dfb1222fafcf25d6e9b58315dc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58d27be4173388727b8ee83971aa88160298949d">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\instant-run_c4aab594793db15b3d997d7e2c41f05985f07693.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="811cbd06a9bc33fc3aff0bc199353517ce13d285">
+        <dex dex="C:\Users\Kostadin\AndroidStudioProjects\YouLocal\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6d93aaf5cd5983ee49ebd239cd709201febd6484.jar" />
+    </item>
+
+</items>
