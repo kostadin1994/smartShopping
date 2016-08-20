@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="org.eclipse.andmore.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/android-google-maps-api11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/smartShopping/code/branches/libs/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/json-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/Desktop/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/android-sdks/extras/android/support/design/libs/android-support-design.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kostadin/android-sdks/extras/android/support/v7/appcompat/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

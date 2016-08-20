@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center|center_vertical"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Select"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Shop" />
+
+    <Button
+        android:id="@+id/locator"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nearby shops" />
+
+    <Button
+        android:id="@+id/topUp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Top up" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+</LinearLayout>
